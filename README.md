@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=DearAsutosh&label=Profile+Views" />
 </p>
-
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=DearAsutosh" alt="Asutosh Achievements" /> </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 💼 ****Passionate Explorer****
