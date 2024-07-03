@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=DearAsutosh" alt="Asutosh Achievements" /> </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 💼 ****Passionate Explorer****
+- 💼 ****Passionate Programmer****
 
 <h3 align="left">👯 Let's collaborate !!!</h3>
 <div>I'm open to collaboration and always excited to work on new projects. If you have an idea or want to collaborate, don't hesitate to reach out.</div>
