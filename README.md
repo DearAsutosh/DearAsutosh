@@ -1,41 +1,113 @@
-<h1 align="center">Hi 👋, I'm Asutosh Sahoo</h1>
-<h3 align="center">Java Developer | Web App Builder | AI Enthusiast | YouTube: JavaWithAsh</h3>
+<h1 align="center">Hey there 👋, I'm Asutosh Sahoo</h1>
+<h3 align="center">Java Developer | Web App Builder | AI Enthusiast | YouTube: <a href="https://www.youtube.com/@JavaWithAsh">JavaWithAsh</a></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dearasutosh&label=Profile%20views&color=0e75b6&style=flat" alt="dearasutosh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dearasutosh" alt="dearasutosh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dearasutosh" target="blank"><img src="https://img.shields.io/twitter/follow/dearasutosh?logo=twitter&style=for-the-badge" alt="dearasutosh" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://asutoshsahoo.netlify.app/](https://asutoshsahoo.netlify.app/)
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **connect.asutoshsahoo@gmail.com**
-
-- ⚡ Fun fact **If there is a GOD, HE also likes me 😀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/asutosh-sahoo-the-sasster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="asutosh-sahoo-the-sasster" height="30" width="40" /></a>
-<a href="https://twitter.com/dearasutosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dearasutosh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asutoshsahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asutoshsahoo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/javawithash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="javawithash" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dear_asutosh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dear_asutosh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dear_asutosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dear_asutosh" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/dear_asutosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dear_asutosh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dear_asutosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dear_asutosh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kanhaasmvpo/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kanhaasmvpo/profile" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dearasutosh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/dearasutosh"><img src="https://github-profile-trophy.vercel.app/?username=dearasutosh&theme=gruvbox&margin-w=10&no-frame=true" alt="GitHub Trophies"></a>
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/asutoshsahoo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="asutoshsahoo" /></a></p><br><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dearasutosh&show_icons=true&locale=en&layout=compact" alt="dearasutosh" /></p>
+### 🔥 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dearasutosh&show_icons=true&locale=en" alt="dearasutosh" /></p>
+- 👨‍💻 I build powerful **Java-based web applications** with solid backend logic  
+- 🌐 Visit my portfolio: [asutoshsahoo.netlify.app](https://asutoshsahoo.netlify.app/)  
+- 💬 Ask me about `Java`, `JSP/Servlet`, `MySQL`, or full-stack development  
+- 📫 Reach me at: **connect.asutoshsahoo@gmail.com**  
+- 🎥 Sharing Java content on YouTube: [@JavaWithAsh](https://www.youtube.com/@JavaWithAsh)  
+- ⚡ Fun Fact: *If there is a GOD, HE also likes me 😄*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dearasutosh&" alt="dearasutosh" /></p>
+---
+
+### 📲 Connect With Me
+
+<p align="left">
+  <!-- CodePen -->
+  <a href="https://codepen.io/asutosh-sahoo-the-sasster" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/codepen.png" alt="CodePen" width="30" height="30">
+  </a>
+  
+  <!-- Twitter -->
+  <a href="https://twitter.com/dearasutosh" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" alt="Twitter" width="30" height="30">
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/asutoshsahoo" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" width="30" height="30">
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@JavaWithAsh" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/fa314a/youtube-play.png" alt="YouTube" width="30" height="30">
+  </a>
+
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/dear_asutosh" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/32/ffffff/external-codechef-a-competitive-programming-community-logo-filled-tal-revivo.png" alt="CodeChef" width="30" height="30">
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/dear_asutosh" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/32/ffffff/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png" alt="HackerRank" width="30" height="30">
+  </a>
+
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/dear_asutosh" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/32/ffffff/external-codeforces-programming-competitions-and-contests-programming-community-logo-filled-tal-revivo.png" alt="Codeforces" width="30" height="30">
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://www.leetcode.com/dear_asutosh" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30">
+  </a>
+
+  <!-- GeeksForGeeks -->
+  <a href="https://auth.geeksforgeeks.org/user/kanhaasmvpo/profile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="90" height="30">
+  </a>
+</p>
+
+
+
+---
+
+### 💻 Languages & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+</p>
+
+---
+
+### ☕ Support My Work
+
+<a href="https://www.buymeacoffee.com/asutoshsahoo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dearasutosh&show_icons=true&theme=github_dark&hide_border=false" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearasutosh&layout=compact&theme=github_dark&hide_border=false" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dearasutosh&theme=github-dark-blue&hide_border=false" />
+</p>
