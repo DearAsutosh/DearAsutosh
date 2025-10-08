@@ -94,6 +94,9 @@
 </p>
 
 ---
+### My Open-source Footprints 🐾
+[![An image of @dearasutosh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dearasutosh)](https://holopin.io/@dearasutosh)
+---
 
 ### ☕ Support My Work
 
