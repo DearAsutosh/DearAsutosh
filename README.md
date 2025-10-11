@@ -11,7 +11,7 @@
 
 ---
 
-### 🔥 About Me
+### About Me :
 
 - 👨‍💻 I build powerful **Java-based web applications** with solid backend logic  
 - 🌐 Visit my portfolio: [asutoshsahoo.co.in](https://www.asutoshsahoo.co.in/)  
@@ -22,7 +22,7 @@
 
 ---
 
-### 📲 Connect With Me
+### Connect With Me :
 
 <p align="left">
   <!-- CodePen -->
@@ -75,7 +75,7 @@
 
 ---
 
-### 💻 Languages & Tools
+### Languages & Tools :
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
@@ -98,13 +98,13 @@
 [![An image of @dearasutosh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dearasutosh)](https://holopin.io/@dearasutosh)
 ---
 
-### ☕ Support My Work
+### Support My Work:
 
 <a href="https://www.buymeacoffee.com/asutoshsahoo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats :
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dearasutosh&show_icons=true&theme=github_dark&hide_border=false" width="47%" />
