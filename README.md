@@ -1,116 +1,89 @@
-<h1 align="center">Hey there 👋, I'm Asutosh Sahoo</h1>
-<h3 align="center">Java Developer | Web App Builder | AI Enthusiast | YouTube: <a href="https://www.youtube.com/@JavaWithAsh">JavaWithAsh</a></h3>
+  <h1 align="center">Asutosh Sahoo</h1>
+<h3 align="center">Backend Logic. Web Systems. Clean Engineering.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dearasutosh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dearasutosh&label=Visitors&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/dearasutosh"><img src="https://github-profile-trophy.vercel.app/?username=dearasutosh&theme=gruvbox&margin-w=10&no-frame=true" alt="GitHub Trophies"></a>
-</p>
+<br/>
 
----
+## Identity
+I write Java like it's my first language and build web applications that don’t break on Mondays.  
+Strong backend logic. Practical engineering. Production-first mindset.
 
-### About Me :
+<br/>
 
-- 👨‍💻 I build powerful **Java-based web applications** with solid backend logic  
-- 🌐 Visit my portfolio: [asutoshsahoo.co.in](https://www.asutoshsahoo.co.in/)  
-- 💬 Ask me about `Java`, `JSP/Servlet`, `MySQL`, or full-stack development  
-- 📫 Reach me at: **connect.asutoshsahoo@gmail.com**  
-- 🎥 Sharing Java content on YouTube: [@JavaWithAsh](https://www.youtube.com/@JavaWithAsh)  
-- ⚡ Fun Fact: *If there is a GOD, HE also likes me 😄*
+## Work Philosophy
+- Build systems that survive bad decisions.  
+- Keep the code honest, even if the world isn't.  
+- Ship. Improve. Repeat.  
 
----
+<br/>
 
-### Connect With Me :
+## Focus Areas
+Java • MySQL • Web Applications • JSP/Servlet • System Thinking • Clean Architecture  
+Exploring AI to enhance engineering, not replace it.
 
+<br/>
+
+## My Ground
+Portfolio: **https://asutoshsahoo.co.in**  
+YouTube: **JavaWithAsh** — teaching Java without sugarcoating it.  
+Contact: **connect.asutoshsahoo@gmail.com**
+
+<br/>
+
+## Technical Toolkit
 <p align="left">
-  <!-- CodePen -->
-  <a href="https://codepen.io/asutosh-sahoo-the-sasster" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/codepen.png" alt="CodePen" width="30" height="30">
-  </a>
-  
-  <!-- Twitter -->
-  <a href="https://twitter.com/dearasutosh" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" alt="Twitter" width="30" height="30">
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/asutoshsahoo" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" width="30" height="30">
-  </a>
-
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/@JavaWithAsh" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/fa314a/youtube-play.png" alt="YouTube" width="30" height="30">
-  </a>
-
-  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/dear_asutosh" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/32/ffffff/external-codechef-a-competitive-programming-community-logo-filled-tal-revivo.png" alt="CodeChef" width="30" height="30">
-  </a>
-
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/dear_asutosh" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/32/ffffff/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png" alt="HackerRank" width="30" height="30">
-  </a>
-
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/dear_asutosh" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/32/ffffff/external-codeforces-programming-competitions-and-contests-programming-community-logo-filled-tal-revivo.png" alt="Codeforces" width="30" height="30">
-  </a>
-
-  <!-- LeetCode -->
-  <a href="https://www.leetcode.com/dear_asutosh" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30">
-  </a>
-
-  <!-- GeeksForGeeks -->
-  <a href="https://auth.geeksforgeeks.org/user/kanhaasmvpo/profile" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="90" height="30">
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </p>
 
+<br/>
 
+## Open-Source Footprint
+[![Holopin](https://holopin.me/dearasutosh)](https://holopin.io/@dearasutosh)
 
----
+<br/>
 
-### Languages & Tools :
-
+## Connect
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+  <a href="https://linkedin.com/in/asutoshsahoo"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="28"></a>
+  <a href="https://twitter.com/dearasutosh"><img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" width="28"></a>
+  <a href="https://www.youtube.com/@JavaWithAsh"><img src="https://img.icons8.com/ios-filled/50/fa314a/youtube-play.png" width="28"></a>
+  <a href="https://codepen.io/asutosh-sahoo-the-sasster"><img src="https://img.icons8.com/ios-filled/50/ffffff/codepen.png" width="28"></a>
+  <a href="https://www.leetcode.com/dear_asutosh"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="28"></a>
+  <a href="https://www.codechef.com/users/dear_asutosh"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/32/ffffff/external-codechef-a-competitive-programming-community-logo-filled-tal-revivo.png" width="28"></a>
+  <a href="https://www.hackerrank.com/dear_asutosh"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/32/ffffff/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png" width="28"></a>
+  <a href="https://codeforces.com/profile/dear_asutosh"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/32/ffffff/external-codeforces-programming-competitions-and-contests-programming-community-logo-filled-tal-revivo.png" width="28"></a>
+  <a href="https://auth.geeksforgeeks.org/user/kanhaasmvpo/profile"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="70"></a>
 </p>
 
----
-### My Open-source Footprints 🐾
-[![An image of @dearasutosh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dearasutosh)](https://holopin.io/@dearasutosh)
----
+<br/>
 
-### Support My Work:
-
-<a href="https://www.buymeacoffee.com/asutoshsahoo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
-
----
-
-### GitHub Stats :
-
+## Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dearasutosh&show_icons=true&theme=github_dark&hide_border=false" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearasutosh&layout=compact&theme=github_dark&hide_border=false" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dearasutosh&show_icons=true&theme=github_dark&hide_border=false" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearasutosh&layout=compact&theme=github_dark&hide_border=false" width="47%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dearasutosh&theme=github-dark-blue&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dearasutosh&theme=github-dark-blue&hide_border=false"/>
 </p>
+
+<br/>
+
+## Support My Work
+<a href="https://www.buymeacoffee.com/asutoshsahoo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="48" width="200"></a>
+
