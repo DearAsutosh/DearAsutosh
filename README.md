@@ -1,18 +1,15 @@
 # 𝗔𝗦𝗨𝗧𝗢𝗦𝗛 𝗦𝗔𝗛𝗢𝗢 
 ![](https://komarev.com/ghpvc/?username=DearAsutosh&style=flat)
-> Backend Engineer in the making | Java & Spring Boot | MCA @ OUTR  
+> Backend Engineer in the making | Java & Spring Boot | MCA @ OUTR 🎓  
 > I build systems that work, scale, and survive real users.
 
 ---
 
 ## About Me
 
-Currently pursuing an MCA at OUTR, I focus on building backend systems using Java and Spring Boot, alongside modern web applications with React. I’m interested in real-world problem solving, scalable architectures, and clean engineering practices.
-
 My work, projects, and tools below reflect what I actively build and explore.
 
-Portfolio : [asutoshsahoo.co.in](https://asutoshsahoo.co.in)
-
+Portfolio : [asutoshsahoo.co.in](https://asutoshsahoo.co.in)  
 My Resume : [Resume Link](https://drive.google.com/file/d/1QnSdT2MrI4v37GAMm7hQhf3WcWR34mSn/view?usp=sharing)
 
 ---
