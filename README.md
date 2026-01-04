@@ -14,11 +14,6 @@ My Resume : [Resume Link](https://drive.google.com/file/d/1QnSdT2MrI4v37GAMm7hQh
 
 ---
 
-## GitHub Trophies :
-![](https://github-profile-trophy.vercel.app/?username=DearAsutosh&theme=onedark&no-frame=false&no-bg=true&margin-w=3)
-
----
-
 ## Teck Stacks I've explored yet...
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
@@ -91,3 +86,5 @@ My Resume : [Resume Link](https://drive.google.com/file/d/1QnSdT2MrI4v37GAMm7hQh
 If something here helped you or inspired you, support is always appreciated.
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/asutoshsahoo)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DearAsutosh&theme=merko&border_radius=20.2&date_format=j%20M%5B%20Y%5D&card_width=493)](https://git.io/streak-stats)
