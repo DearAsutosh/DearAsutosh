@@ -1,4 +1,6 @@
-# ASUTOSH SAHOO 
+
+![Asutosh Sahoo](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=48&pause=900&color=FFD700&width=850&height=100&lines=Asutosh+Sahoo)
+
 ![](https://komarev.com/ghpvc/?username=DearAsutosh&style=flat)
 > Backend Engineer in the making | Java & Spring Boot | MCA @ OUTR 🎓  
 > I build systems that work, scale, and survive real users.
