@@ -5,7 +5,7 @@
 
 ---
 
-## About Me
+## About Me :
 
 My work, projects, and tools below reflect what I actively build and explore.
 
@@ -14,12 +14,12 @@ My Resume : [Resume Link](https://drive.google.com/file/d/1QnSdT2MrI4v37GAMm7hQh
 
 ---
 
-## GitHub Trophies
+## GitHub Trophies :
 ![](https://github-profile-trophy.vercel.app/?username=DearAsutosh&theme=onedark&no-frame=false&no-bg=true&margin-w=3)
 
 ---
 
-## The Stack That Shapes My Craft
+## Teck Stacks I've explored yet...
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -67,14 +67,14 @@ My Resume : [Resume Link](https://drive.google.com/file/d/1QnSdT2MrI4v37GAMm7hQh
 
 ## Holopin Badges (Hacktoberfest 2025)
 
-Proud open-source contributor during Hacktoberfest 2025.  
-6+ PRs merged, tree planted in my name, and verified developer badges earned.
+<b>Proud open-source contributor during Hacktoberfest 2025.  
+6+ PRs merged, tree planted in my name, and verified developer badges earned.</b>
 
 [![Holopin Board](https://holopin.me/dearasutosh)](https://holopin.io/@dearasutosh)
 
 ---
 
-## Socials
+## Let's connect !
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asutoshsahoo)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dear.asutosh)
@@ -82,9 +82,6 @@ Proud open-source contributor during Hacktoberfest 2025.
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://asutoshsahoo.co.in)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:connect.asutoshsahoo@gmail.com)
 
----
-
-## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
