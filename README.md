@@ -3,8 +3,6 @@
 > Backend Engineer in the making | Java & Spring Boot | MCA @ OUTR 🎓  
 > I build systems that work, scale, and survive real users.
 
----
-
 ## About Me :
 
 My work, projects, and tools below reflect what I actively build and explore.
@@ -12,7 +10,6 @@ My work, projects, and tools below reflect what I actively build and explore.
 Portfolio : [asutoshsahoo.co.in](https://asutoshsahoo.co.in)  
 My Resume : [Resume Link](https://drive.google.com/file/d/1QnSdT2MrI4v37GAMm7hQhf3WcWR34mSn/view?usp=sharing)
 
----
 
 ## Teck Stacks I've explored yet...
 
@@ -87,4 +84,4 @@ If something here helped you or inspired you, support is always appreciated.
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/asutoshsahoo)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DearAsutosh&theme=merko&border_radius=20.2&date_format=j%20M%5B%20Y%5D&card_width=493)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DearAsutosh&theme=merko&border_radius=20.2&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=250)](https://git.io/streak-stats)
