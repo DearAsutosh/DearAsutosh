@@ -66,7 +66,9 @@ My Resume : [Resume Link](https://drive.google.com/file/d/1QnSdT2MrI4v37GAMm7hQh
 
 ---
 
-## Let's connect !  
+<div align="center">
+  
+# Let's connect !  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asutoshsahoo)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dear.asutosh)
@@ -76,12 +78,13 @@ My Resume : [Resume Link](https://drive.google.com/file/d/1QnSdT2MrI4v37GAMm7hQh
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
 
 ## Support My Work
 
-If something here helped you or inspired you, support is always appreciated.
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/asutoshsahoo)
+
+</div>
+
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=DearAsutosh&theme=merko&border_radius=20.2&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
